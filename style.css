@@ -1,0 +1,53 @@
+.Casa3 {
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: greenyellow;
+    float: right;
+}
+
+
+.Casa2 {
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    background-color: black;
+    float: left;
+}
+
+.Linha {
+
+    width: 600px;
+    height: 10px;
+    border: 1px;
+    background-color: yellow;
+    clear: both;
+
+}
+
+.Casa {
+    width: 600px;
+    height: 300px;
+    border: 1px;
+    background-color: blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
